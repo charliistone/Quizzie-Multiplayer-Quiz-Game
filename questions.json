@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the capital of Turkey?",
+    "A": "Istanbul",
+    "B": "Ankara",
+    "C": "Izmir",
+    "D": "Bursa",
+    "answer": "B"
+  },
+  {
+    "question": "Which language is used for web frontend?",
+    "A": "Python",
+    "B": "Java",
+    "C": "HTML",
+    "D": "C++",
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "A": "Earth",
+    "B": "Saturn",
+    "C": "Jupiter",
+    "D": "Neptune",
+    "answer": "C"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "A": "Vincent van Gogh",
+    "B": "Pablo Picasso",
+    "C": "Leonardo da Vinci",
+    "D": "Michelangelo",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "A": "Go",
+    "B": "Gd",
+    "C": "Au",
+    "D": "Ag",
+    "answer": "C"
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "A": "China",
+    "B": "Japan",
+    "C": "Brazil",
+    "D": "France",
+    "answer": "B"
+  },
+  {
+    "question": "What is the tallest mammal?",
+    "A": "Elephant",
+    "B": "Giraffe",
+    "C": "Blue Whale",
+    "D": "Polar Bear",
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "A": "Venus",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Saturn",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "A": "Charles Dickens",
+    "B": "William Shakespeare",
+    "C": "Jane Austen",
+    "D": "Mark Twain",
+    "answer": "B"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "A": "Atlantic Ocean",
+    "B": "Indian Ocean",
+    "C": "Arctic Ocean",
+    "D": "Pacific Ocean",
+    "answer": "D"
+  }
+]
